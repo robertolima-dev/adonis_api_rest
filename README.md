@@ -28,7 +28,7 @@ adonis migration:run
 ```
 
 
-###.env
+### .env
 
 <p>HOST=127.0.0.1</p>
 <p>PORT=3333</p>
